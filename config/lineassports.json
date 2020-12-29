@@ -1,0 +1,56 @@
+{
+  "row0": [
+    { "title": "Sports01",
+      "manifest": "https://laligasports-live-sports01.akamaized.net/out/v1/7124c30904924749939daed5c2895fde/index.m3u8?hdnts=exp=1655637029~hmac=2c9adc9c72d52184a69c82b215aeeaaf538bb94b7e3f347631efa3219381c498",
+      "type": "hls"
+    },
+    { "title": "Sports02",
+      "manifest": "https://laligasports-live-sports02.akamaized.net/out/v1/4d4085bfcdae423d83a662c228a690a2/index.m3u8?hdnts=exp=1655637043~hmac=e5f135f649af9176712a625f63fcc343c728130fb3c4b2723f1a6811feb89d40",
+      "type": "hls"
+    },
+    { "title": "Sports03",
+      "manifest": "https://laligasports-live-sports03.akamaized.net/out/v1/8fd9c663797c47e9bc0137a1b5a3be68/index.m3u8?hdnts=exp=1655637073~hmac=336b2a9251d700875e5f74df6941b7332637de472b6ecf70bdb85b715a6ce821",
+      "type": "hls"
+    },
+    { "title": "Sports04",
+      "manifest": "https://laligasports-live-sports04.akamaized.net/out/v1/1041c4cc26834e988aaaf904d44da10e/index.m3u8?hdnts=exp=1655637087~hmac=5f6766c413fc6e7601e92e671f4f103bdc977ce0d208e66d4479f53d3baac68d",
+      "type": "hls"
+    }
+  ],
+  "row1": [
+    { "title": "Sports05",
+      "manifest": "https://laligasports-live-sports05.akamaized.net/out/v1/54c7ab7291494e30bafbb22b4097ef57/index.m3u8?hdnts=exp=1655637104~hmac=6ea7ac2d3c5b88f6ccf37f1dcf03fc748dee0763fa5bb22575476d744c07d09a",
+      "type": "hls"
+    },
+    { "title": "Sports06",
+      "manifest": "https://laligasports-live-sports06.akamaized.net/out/v1/e645141ec14347f39b8bdbb77e8ad97e/index.m3u8?hdnts=exp=1655637140~hmac=c0de6f262bf48bac772a1fdc03bf1b65736a9617bbbab841d00c296c7e0a7978",
+      "type": "hls"
+    },
+    { "title": "Sports07",
+      "manifest": "https://laligasports-live-sports07.akamaized.net/out/v1/7772f111524f4e78beff3bc97f56537e/index.m3u8?hdnts=exp=1655636872~hmac=f82ed801b022c91c3c5ed8f353944a46c2239a2c6b6ecc6cd9b199251d4ad3b0",
+      "type": "hls"
+    },
+    { "title": "Sports08",
+      "manifest": "https://laligasports-live-sports08.akamaized.net/out/v1/da6f2163f4a44ae3a3e81acf9e17a054/index.m3u8?hdnts=exp=1655637172~hmac=36901671ac1472b6fde1273d34435b8a861067855cef9bda00c3a9cd95d15ebe",
+      "type": "hls"
+    }
+  ],
+  "row2": [
+    { "title": "Sports09",
+      "manifest": "https://laligasports-live-sports09.akamaized.net/out/v1/64ab99d6103447cf97c2452dfa5e377c/index.m3u8?hdnts=exp=1655637186~hmac=105ed22e2afe9127ae7d716a01091b3b6b0fd5a5d6580eb81dba67f1404c02ce",
+      "type": "hls"
+    },
+    { "title": "",
+      "manifest": "",
+      "type": "hls"
+    },
+    { "title": "",
+      "manifest": "",
+      "type": "hls"
+    },
+    { "title": "",
+      "manifest": "",
+      "type": "hls"
+    }
+  ]
+}

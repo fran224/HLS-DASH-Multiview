@@ -1,0 +1,104 @@
+  <!DOCTYPE html>
+  <html>
+  <head>
+    <title>LSDMultiview</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel='stylesheet' href='stylesheets/indexstyle.css'/>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap" rel="stylesheet">
+  </head>
+  <body>
+    <div class="container">
+      <div class="row h-100"> 
+        <div class="col-sm-12 my-auto">
+          <img class="logo" src="images/logo.png" alt="">
+          
+          <p class="titulo text-center"><font color="#202020">LSD</font><font color="#505050">Multiview</font></p>
+
+          <div class="row links text-center">
+
+            <div class="col-md-4">
+              <div class="dropdown">
+                <button class="btn btn-secondary dropdown-toggle large" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  ORO
+                </button>
+                <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                  <a class="dropdown-item" href="/index4players?config=linea01.json">Linea 01</a>
+                  <a class="dropdown-item" href="/index4players?config=linea02.json">Linea 02</a>
+                  <a class="dropdown-item" href="/index4players?config=linea03.json">Linea 03</a>
+                  <a class="dropdown-item" href="/index4players?config=linea04.json">Linea 04</a>
+                  <a class="dropdown-item" href="/index4players?config=linea05.json">Linea 05</a>
+                  <a class="dropdown-item" href="/index4players?config=linea06.json">Linea 06</a>
+                  <a class="dropdown-item" href="/index4players?config=linea07.json">Linea 07</a>
+                  <a class="dropdown-item" href="/index4players?config=linea08.json">Linea 08</a>
+                  <a class="dropdown-item" href="/index4players?config=linea09.json">Linea 09</a>
+                  <a class="dropdown-item" href="/index4players?config=linea10.json">Linea 10</a>  
+                </div>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class="dropdown">
+                <button class="btn btn-secondary dropdown-toggle large" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  Sports
+                </button>
+                <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                  <a class="dropdown-item" href="/index4players?config=sports01.json">Sports 01</a>
+                  <a class="dropdown-item" href="/index4players?config=sports02.json">Sports 02</a>
+                  <a class="dropdown-item" href="/index4players?config=sports03.json">Sports 03</a>
+                  <a class="dropdown-item" href="/index4players?config=sports04.json">Sports 04</a>
+                  <a class="dropdown-item" href="/index4players?config=sports05.json">Sports 05</a>
+                  <a class="dropdown-item" href="/index4players?config=sports06.json">Sports 06</a>
+                  <a class="dropdown-item" href="/index4players?config=sports07.json">Sports 07</a>
+                  <a class="dropdown-item" href="/index4players?config=sports08.json">Sports 08</a>
+                  <a class="dropdown-item" href="/index4players?config=sports09.json">Sports 09</a>  
+                </div>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class="dropdown">
+                <button class="btn btn-secondary dropdown-toggle large" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  Alt
+                </button>
+                <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                  <a class="dropdown-item" href="/index4players?config=alt01.json">Alt 01</a>
+                  <a class="dropdown-item" href="/index4players?config=alt02.json">Alt 02</a>
+                  <a class="dropdown-item" href="/index4players?config=alt03.json">Alt 03</a>
+                  <a class="dropdown-item" href="/index4players?config=alt04.json">Alt 04</a>
+                  <a class="dropdown-item" href="/index4players?config=alt05.json">Alt 05</a>
+                  <a class="dropdown-item" href="/index4players?config=alt06.json">Alt 06</a>
+                  <a class="dropdown-item" href="/index4players?config=alt07.json">Alt 07</a>
+                  <a class="dropdown-item" href="/index4players?config=alt08.json">Alt 08</a>
+  
+                </div>
+              </div>
+            </div>
+
+          
+            <div class="col-md-4" style="padding-top: 2em;">
+              <a class="btn btn-secondary large" href="/index12players?config=lineasoro.json" role="button"> <p style="margin: 0">Lineas ORO</p>  <p style="font-size: 12px; margin: 0;"> (distribuciones)</p> </a>
+            </div>
+            <div class="col-md-4" style="padding-top: 2em;">
+              <a class="btn btn-secondary large" href="/index12players?config=lineassports.json" role="button"><p style="margin: 0">Lineas Sports</p>  <p style="font-size: 12px; margin: 0;"> (distribuciones)</p></a>
+            </div>
+            <div class="col-md-4" style="padding-top: 2em;">
+              <a class="btn btn-secondary large" href="/index12players?config=lineasalt.json" role="button"> <p style="margin: 0">Lineas Alt</p>  <p style="font-size: 12px; margin: 0;"> (distribuciones GEO)</p> </a>
+            </div>
+
+          </div>
+        </div>  
+      </div>   
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+    <script src="javascripts/hls.min.js" type="text/javascript"></script>
+    <script src="javascripts/shaka-player.compiled.js" type="text/javascript"></script>
+    <script src="javascripts/viewer.js" type="text/javascript"></script>
+    <script src="javascripts/hover.js" type="text/javascript"></script>
+    <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
+    <script type="text/javascript">
+      document.addEventListener("DOMContentLoaded", function(event) {
+        initMultiView(<%- conf %>);
+        initKeyControls();
+      });
+    </script>
+  </body>
+  </html>

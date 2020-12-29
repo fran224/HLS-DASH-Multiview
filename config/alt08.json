@@ -1,0 +1,22 @@
+{
+  "row0": [
+    { "title": "Contribucion Main",
+      "manifest": "http://contrib01.laligasportstv.com:1935/live/SRT_RuPre_alt08.stream/playlist.m3u8",
+      "type": "hls"
+    },
+    { "title": "Contribucion Backup",
+      "manifest": "http://contrib02.laligasportstv.com:1935/live/SRT_RuPre_alt08.stream/playlist.m3u8",
+      "type": "hls"
+    }
+ ],
+  "row1": [
+    { "title": "AWS",
+      "manifest": "https://e087512ad0c32643.mediapackage.eu-west-1.amazonaws.com/out/v1/8485a5b242f942509af7d8f95bbd3b03/index.m3u8",
+      "type": "hls"
+    },
+    { "title": "Akamai",
+      "manifest": "https://laligasports-live-rupre08.akamaized.net/out/v1/8485a5b242f942509af7d8f95bbd3b03/index.m3u8?hdnts=exp=1657798025~hmac=ee0bf9b235cd58b89a75ca5bb4008c802ab64b1fdbf0b6b914795ee8e0826fb7",
+      "type": "hls"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "row0": [
+    { "title": "Contribucion Main",
+      "manifest": "http://contrib01.laligasportstv.com:1935/live/SRT_Linea_04.stream/playlist.m3u8",
+      "type": "hls"
+    },
+    { "title": "Contribucion Backup",
+      "manifest": "http://contrib02.laligasportstv.com:1935/live/SRT_Linea_04.stream/playlist.m3u8",
+      "type": "hls"
+    }
+ ],
+  "row1": [
+    { "title": "AWS",
+      "manifest": "https://e087512ad0c32643.mediapackage.eu-west-1.amazonaws.com/out/v1/17e63f58fafd4aa5a50b38562eec9208/index.m3u8",
+      "type": "hls"
+    },
+    { "title": "Akamai",
+      "manifest": "https://laligasports-live-linea04.akamaized.net/out/v1/17e63f58fafd4aa5a50b38562eec9208/index.m3u8?hdnts=exp=1655636763~hmac=770fbd55ac0cb404e6b839302ff991a6b1d8e7247c810599db5eda6b619b46ea",
+      "type": "hls"
+    }
+  ]
+}

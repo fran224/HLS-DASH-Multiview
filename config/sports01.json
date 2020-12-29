@@ -1,0 +1,22 @@
+{
+  "row0": [
+    { "title": "Contribucion Main",
+      "manifest": "http://contrib02.laligasportstv.com:1935/sports/sports01/playlist.m3u8",
+      "type": "hls"
+    },
+    { "title": "Contribucion Backup",
+      "manifest": "http://contrib01.laligasportstv.com:1935/sports/sports01/playlist.m3u8",
+      "type": "hls"
+    }
+ ],
+  "row1": [
+    { "title": "AWS",
+      "manifest": "https://6180c994cb835402.mediapackage.eu-west-1.amazonaws.com/out/v1/7124c30904924749939daed5c2895fde/index.m3u8",
+      "type": "hls"
+    },
+    { "title": "Akamai",
+      "manifest": "https://laligasports-live-sports01.akamaized.net/out/v1/7124c30904924749939daed5c2895fde/index.m3u8?hdnts=exp=1655637029~hmac=2c9adc9c72d52184a69c82b215aeeaaf538bb94b7e3f347631efa3219381c498",
+      "type": "hls"
+    }
+  ]
+}

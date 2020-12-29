@@ -1,0 +1,56 @@
+{
+  "row0": [
+    { "title": "Linea01",
+      "manifest": "https://laligasports-live-linea01.akamaized.net/out/v1/90c72993f6334a0fb0a8ecf829ab7c90/index.m3u8?hdnts=exp=1655636529~hmac=6b85bcd82f7fb44bd454ae4bb2093a57bb8b2c3fcf76cd9c31ca90a715980b94",
+      "type": "hls"
+    },
+    { "title": "Linea02",
+      "manifest": "https://laligasports-live-linea02.akamaized.net/out/v1/7d42025c1ba0442db7dfdad06f7e0342/index.m3u8?hdnts=exp=1655636555~hmac=f446fa46eb3d99b403692cdb3a2254393773eae4844eec80c13f1a47ca19a695",
+      "type": "hls"
+    },
+    { "title": "Linea03",
+      "manifest": "https://laligasports-live-linea03.akamaized.net/out/v1/8d8a8493653845a380eabe77fc9bdc83/index.m3u8?hdnts=exp=1655636588~hmac=abb504da9af97e99da6ba88305ce2c9ee0af93ad3f5f2dc14b774e786ccd65ce",
+      "type": "hls"
+    },
+    { "title": "Linea04",
+      "manifest": "https://laligasports-live-linea04.akamaized.net/out/v1/17e63f58fafd4aa5a50b38562eec9208/index.m3u8?hdnts=exp=1655636763~hmac=770fbd55ac0cb404e6b839302ff991a6b1d8e7247c810599db5eda6b619b46ea",
+      "type": "hls"
+    }
+  ],
+  "row1": [
+    { "title": "Linea05",
+      "manifest": "https://laligasports-live-linea05.akamaized.net/out/v1/8b82c41b9a4247628c665ed3978bad76/index.m3u8?hdnts=exp=1655636833~hmac=18cc6699d420b6b0e8f509918ab3b54b63c474a820d10a37d410c54b0bd82f93",
+      "type": "hls"
+    },
+    { "title": "Linea06",
+      "manifest": "https://laligasports-live-linea06.akamaized.net/out/v1/1f14e9162cdf43519f7bd0fa14264bbb/index.m3u8?hdnts=exp=1655636853~hmac=fef2d122b1ba2b55a86f6ac135e75304a869ad8da44370c1a25c9b52396e8669",
+      "type": "hls"
+    },
+    { "title": "Linea07",
+      "manifest": "https://laligasports-live-linea07.akamaized.net/out/v1/6427e4e794ba42b7b047c2d0fd7bb16d/index.m3u8?hdnts=exp=1655636872~hmac=f82ed801b022c91c3c5ed8f353944a46c2239a2c6b6ecc6cd9b199251d4ad3b0",
+      "type": "hls"
+    },
+    { "title": "Linea08",
+      "manifest": "https://laligasports-live-linea08.akamaized.net/out/v1/3541521ce7724321b27ae648f361e447/index.m3u8?hdnts=exp=1655636529~hmac=6b85bcd82f7fb44bd454ae4bb2093a57bb8b2c3fcf76cd9c31ca90a715980b94",
+      "type": "hls"
+    }
+  ],
+  "row2": [
+    { "title": "Linea09",
+      "manifest": "https://laligasports-live-linea09.akamaized.net/out/v1/4ed69b3716544d0aa592128af305990a/index.m3u8?hdnts=exp=1655636529~hmac=6b85bcd82f7fb44bd454ae4bb2093a57bb8b2c3fcf76cd9c31ca90a715980b94",
+      "type": "hls"
+    },
+    { "title": "Linea10",
+      "manifest": "https://laligasports-live-linea10.akamaized.net/out/v1/a8571eee36034e418a0dfa8456ae6615/index.m3u8?hdnts=exp=1655636529~hmac=6b85bcd82f7fb44bd454ae4bb2093a57bb8b2c3fcf76cd9c31ca90a715980b94",
+      "type": "hls"
+    },
+    { "title": "",
+      "manifest": "",
+      "type": "hls"
+    },
+    { "title": "",
+      "manifest": "",
+      "type": "hls"
+    }
+  ]
+}

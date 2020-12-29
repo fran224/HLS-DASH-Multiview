@@ -1,0 +1,111 @@
+html {
+  background-color: #000;
+}
+
+body {
+  padding: 0px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-color: #000;
+  color: #fff;
+}
+
+a {
+  color: #00B7FF;
+}
+
+th {
+  padding: 0.3em;
+}
+
+.videoInfo {
+  background-color: rgba(0,0,0,0.80);
+  border-radius: 5%;
+  padding-top: 1em;
+  padding-left: 1em;
+  padding-bottom: 1em;
+  z-index: 1000;
+  position: absolute;
+  width: 60%;
+  height: auto;
+  left: 20%;
+  top: 10%;
+}
+
+.tiny {
+  font-size: 8px;
+}
+
+.vp {
+  border: 1px solid #fff;
+  min-height: 200px;
+  padding: 0px;
+  text-align: center;
+}
+
+.info {
+  background: url('../images/logo.png');
+  background-color: #000;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: auto 280px;
+  min-height: 280px;
+  color: #000;
+  text-align: center;
+  padding: 2px;
+}
+
+.vp-large {
+  min-height: 280px;
+}
+
+video {
+  width: 100%;
+  min-height: 220px;
+  border: 1px solid #777777;
+}
+
+.video-active {
+  opacity: 1;
+}
+
+.video-paused {
+  opacity: 0.5;
+}
+
+.video-buffering {
+  border: 3px solid red;
+}
+
+.video-unmuted {
+  border: 3px solid green;
+}
+
+.title {
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0px;
+  position: relative;
+  bottom: 10px;
+}
+
+.overlay {
+  position: relative;
+  width: 100%;
+  top: -20px;
+  background-color: #000;
+  opacity: 0.8;
+  z-index: 20;
+}
+
+.shortcut {
+  z-index: 15;
+  font-size: 8px;
+  position: absolute;
+  right: 10px;
+  top: 10px;
+  border: 1px solid;
+  padding: 3px;
+  background-color: #000;
+}
+
